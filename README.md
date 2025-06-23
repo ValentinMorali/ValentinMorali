@@ -1,6 +1,6 @@
-## Hi there 👋
+[[## Hi there 👋
 
-![Profile views counter](https://komarev.com/ghpvc/?username=topdeveloper917&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ValentinMorali&&style=flat-square)  
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Web | Full Stack Developer
@@ -133,3 +133,4 @@
     </td>
   </tr>
 </table>
+](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
