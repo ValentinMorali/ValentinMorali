@@ -1,9 +1,8 @@
+<h1 align="center">Valentín Morali</h1>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Web | Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Web3+%26+Smart+Contracts;Building+with+AI" alt="Full Stack Developer · Web3 & Smart Contracts · Building with AI" />
+</p>
 
 ###
 
