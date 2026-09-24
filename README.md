@@ -106,7 +106,7 @@
       <br>Anthropic
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=openai" width="45" height="45" alt="OpenAI" />
+      <img src="icons/openai.svg" width="45" height="45" alt="OpenAI" />
       <br>OpenAI
     </td>
   </tr>
